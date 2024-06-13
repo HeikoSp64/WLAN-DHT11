@@ -1,4 +1,4 @@
-
+//V1.2
 #include <Wire.h>
 #include "SSD1306Wire.h"
 #include <Adafruit_Sensor.h>
