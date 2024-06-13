@@ -1,4 +1,5 @@
-//V1.2
+//V1.3
+// Aktuell
 #include <Wire.h>
 #include "SSD1306Wire.h"
 #include <Adafruit_Sensor.h>
