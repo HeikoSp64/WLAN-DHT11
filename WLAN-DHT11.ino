@@ -1,5 +1,4 @@
-//Not Working
-//test muss noch bearbeitet werden
+
 #include <Wire.h>
 #include "SSD1306Wire.h"
 #include <Adafruit_Sensor.h>
